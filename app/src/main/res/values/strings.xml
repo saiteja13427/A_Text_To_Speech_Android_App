@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">text_to_speech</string>
+    <string name="message">Enter any sentence to listen</string>
+</resources>
